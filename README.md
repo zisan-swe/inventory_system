@@ -73,9 +73,7 @@ php artisan key:generate
 ```bash
 php artisan migrate --seed
 ```
-
 Admin user (email: admin@gamil.com, password: admin#123)
-
 
 ###  8.Running the Application
 Development Mode
